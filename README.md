@@ -25,9 +25,6 @@ Utilizado algumas ferramentas e bibliotecas para o desenvolvimento:
 
 ## Considere
 
-  . Utilizar e refatorar o algoritmo de validação de cpf:
-  <https://github.com/rodrigobranas/cccat7_refactoring/blob/master/src/example2/cpfBefore.ts>
-
 ## Disclaimer
 
 Este repositório foi criado com o intuito de colocar em prática conhecimentos adquirido com o curso JavaScript Mastery
