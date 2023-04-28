@@ -1,0 +1,5 @@
+# texto hero
+I develop 3D visuals, user interfaces and web applications
+				
+I challenged myself to develop a 3D visual application, user
+interface and web application
